@@ -6,7 +6,7 @@ const inputContainer = document.getElementById("textArea");
 const outputContainer = document.querySelector("#outputBox");
 const showcase = document.querySelector(".showcase__area");
 // const url = "https://api.funtranslations.com/translate/minion.json";
-const url = "https://api.funtranslations.com/translate/vulcan.json";
+const url = "https://api.funtranslations.com/translate/dothraki.json";
 // var url = "https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json";
 
 function handleBtnClick(event) {
